@@ -1,0 +1,68 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 150px;
+}
+
+.resumeParentContainer{
+    display: flex;
+    background-color:#008080;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 0 20px ;
+}
+
+.LeftSection{
+    background-color:#e9e7e7;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    border-right: 5px solid rgb(253, 253, 253);
+}
+
+.profilePic{
+    width: 150px;
+    height: 150px;
+    margin: 10%;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgb(238, 255, 0);
+    margin-bottom: 20px;
+}
+
+h3{
+    font-size: 20px;
+    padding: 2%;
+    margin: 20px 0 10px;
+    border-radius: 10px;
+    box-shadow:0 0 15px #FFD700;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+p{
+    font-size: 14px;
+}
+
+.RightSection{
+    text-align: center;
+    align-content: center;
+    padding-left: 4%;
+    padding-right: 4%;
+    color: rgb(230, 228, 228);
+    font-size: 14px;
+}
+
+.list{
+    text-align: left;
+    font-size: 14px;
+}
+
+b{
+    font-size: 16px;
+}
+
+a{
+    color: white;
+}
